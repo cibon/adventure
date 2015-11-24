@@ -5,10 +5,10 @@
     <modelVersion>4.0.0</modelVersion>
 
     <groupId>erik-debug</groupId>
-    <artifactId>erik-debug-test</artifactId>
+    <artifactId>erik-debug-interface</artifactId>
     <version>1.0-SNAPSHOT</version>
+    <packaging>war</packaging>
     <description>
-        project for all test demands.
+        project for hadoop interfaces.
     </description>
-
 </project>
