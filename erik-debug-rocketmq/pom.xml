@@ -10,5 +10,11 @@
     <description>
         project for rocketmq base functions.
     </description>
-
+    <dependencies>
+        <dependency>
+            <groupId>com.alibaba.rocketmq</groupId>
+            <artifactId>rocketmq-client</artifactId>
+            <version>3.2.6</version>
+        </dependency>
+    </dependencies>
 </project>
